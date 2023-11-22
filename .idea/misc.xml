@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable/login.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable/portaaviones.xml" value="0.1995" />
+        <entry key="app/src/main/res/layout-land/activity_acomodandos.xml" value="0.15343915343915343" />
+        <entry key="app/src/main/res/layout-land/activity_acomodo.xml" value="0.20183258056640627" />
+        <entry key="app/src/main/res/layout-land/activity_juego.xml" value="0.15343915343915343" />
+        <entry key="app/src/main/res/layout-land/activity_solo.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_acomodandos.xml" value="0.18125" />
+        <entry key="app/src/main/res/layout/activity_acomodo.xml" value="0.1671875" />
+        <entry key="app/src/main/res/layout/activity_admin.xml" value="0.13054809570312503" />
+        <entry key="app/src/main/res/layout/activity_barcos.xml" value="0.1671875" />
+        <entry key="app/src/main/res/layout/activity_barcossolo.xml" value="0.18125" />
+        <entry key="app/src/main/res/layout/activity_disponibles.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_enviado.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_juego.xml" value="0.1817245483398438" />
+        <entry key="app/src/main/res/layout/activity_juegosolo.xml" value="0.29583333333333334" />
+        <entry key="app/src/main/res/layout/activity_jugarsolo.xml" value="0.1671875" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_resibido.xml" value="0.23911132812500002" />
+        <entry key="app/src/main/res/layout/activity_resultado.xml" value="0.18125" />
+        <entry key="app/src/main/res/layout/activity_resultadosolo.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_seleccion.xml" value="0.2004460652669271" />
+        <entry key="app/src/main/res/layout/activity_solo.xml" value="0.29583333333333334" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.2869822485207101" />
+        <entry key="app/src/main/res/layout/personas_activas.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/sigin.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/signin.xml" value="0.2255813953488372" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

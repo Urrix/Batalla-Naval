@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359867678176",
+    "project_id": "batalla-naval-5aa86",
+    "storage_bucket": "batalla-naval-5aa86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359867678176:android:e0ab26e47ddc9c32733f85",
+        "android_client_info": {
+          "package_name": "com.artois.batallanaval"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359867678176-os3l08amh7rm32rfrp0u3fjchophl9mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHKi9auHstZ8fwrSpy1JL30NYNWkzTKeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359867678176-os3l08amh7rm32rfrp0u3fjchophl9mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
